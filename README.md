@@ -14,7 +14,7 @@ Features
 Getting Started
 
 To get started with the URL shortener, follow these steps:
-1. Clone the repository:  clone 
+1. Clone the repository:  git clone https://github.com/SnehilPatel/UrlShortenerService.git 
 2. Install Golang: Make sure you have Golang installed on your machine. You can download it from the official Golang website.
 3. Build and run the application:                                                                                                            go build .
 ./url-shortener
@@ -37,4 +37,3 @@ Contributing
 
 Contributions to the URL shortener project are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
 
-t a pull request.
